@@ -2,8 +2,10 @@ Bun venit la o serie de sedinte in care o sa vorbim despre diferente intre C si 
 Aceasta prima intalnire este pentru a ne cunoaste si facem idee cum o sa decurga proiectul.
 Bibliografie:
 bogdan-tirzioru.go.ro/CPP
+https://en.cppreference.com/w/
 IDE+compiler:
 1)Visual Studio Express din SSP7
 2)http://www.codeblocks.org/downloads/26  -> codeblocks-20.03mingw-setup.exe (necesita openuser)
 Repository github:
 https://github.com/bogdan-tirzioru/Calculator
+
