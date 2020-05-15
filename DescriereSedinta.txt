@@ -1,3 +1,7 @@
+15.05.2020
+Discutii referitoare la programul facut in C:programarea procedurala, const, enum, transmiterea parametrilor prin valoarea, referinta si pointer.
+Tipuri referinta. Diferenta intre o referinta si un pointer.
+08.05.2020
 Bun venit la o serie de sedinte in care o sa vorbim despre diferente intre C si C++ , deasemenea o sa facem un proiect in C++.
 Aceasta prima intalnire este pentru a ne cunoaste si facem idee cum o sa decurga proiectul.
 Bibliografie:
