@@ -1,3 +1,10 @@
+05.06.2020
+Discutii referitoare la abstractizare, polimorfism, incapsulare, referinte constante, constructori, destructori, supraincarcarea metodelor, liste de initializare
+repository Andrei: https://github.com/AndreiSerghie/CppTraining
+29.05.2020
+Discutii pe bazei temei
+22.05.2020
+Prezentarea unui simplu examplu de clase, principii generale OOP,  
 15.05.2020
 Discutii referitoare la programul facut in C:programarea procedurala, const, enum, transmiterea parametrilor prin valoarea, referinta si pointer.
 Tipuri referinta. Diferenta intre o referinta si un pointer.

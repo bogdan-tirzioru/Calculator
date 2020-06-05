@@ -1,2 +1,6 @@
 ﻿  CalculatorCversion.cpp
+E:\CPP\Calculator\CalculatorCversion\CalculatorCversion\CalculatorCversion.cpp(84,28): warning C4477: 'sscanf' : format string '%g' requires an argument of type 'float *', but variadic argument 1 has type 'MyNumberType *'
+E:\CPP\Calculator\CalculatorCversion\CalculatorCversion\CalculatorCversion.cpp(84,28): message : consider using '%lg' in the format string
+E:\CPP\Calculator\CalculatorCversion\CalculatorCversion\CalculatorCversion.cpp(84,28): warning C4477: 'sscanf' : format string '%g' requires an argument of type 'float *', but variadic argument 2 has type 'MyNumberType *'
+E:\CPP\Calculator\CalculatorCversion\CalculatorCversion\CalculatorCversion.cpp(84,28): message : consider using '%lg' in the format string
   CalculatorCversion.vcxproj -> E:\CPP\Calculator\CalculatorCversion\Debug\CalculatorCversion.exe
