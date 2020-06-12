@@ -1,3 +1,4 @@
-﻿  stdafx.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\WDExpress\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'd:\git\calculator\consoleapplication1\debug\consoleapplication1.pdb' because it is being used by another process.
+  stdafx.cpp
   ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\uib19519\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\GIT\Calculator\ConsoleApplication1\Debug\ConsoleApplication1.exe
