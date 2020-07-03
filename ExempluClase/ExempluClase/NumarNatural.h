@@ -43,7 +43,7 @@ class NumarReal :NumarNatural
 private:
 	TDataF dataf;
 public:
-	NumarReal() :dataf() {
+	NumarReal() {
 		; };
 	NumarReal(TDataF a) { dataf = a; };
 	void SetData(TDataF a) { dataf = a; };

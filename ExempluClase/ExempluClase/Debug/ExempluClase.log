@@ -1,4 +1,5 @@
 ﻿  ExempluClase.cpp
+E:\CPP\Calculator\ExempluClase\ExempluClase\NumarNatural.h(47,3): error C3861: 'super': identifier not found
   NumarNatural.cpp
+E:\CPP\Calculator\ExempluClase\ExempluClase\NumarNatural.h(47,3): error C3861: 'super': identifier not found
   Generating Code...
-  ExempluClase.vcxproj -> E:\CPP\Calculator\ExempluClase\Debug\ExempluClase.exe
