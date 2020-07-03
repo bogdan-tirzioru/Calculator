@@ -1,3 +1,11 @@
+03.07.2020
+tipuri de casturi, modificatori de access
+26.06.2020
+Recapitulare
+19.06.2020
+supraincarerea oparatorilor
+12.06.2020
+implementare de mostenire, clase derivate, friend, supraincarearea operatorului de <<, clase abstracte, lista de clase de obiecte de baza, virtual, 
 05.06.2020
 Discutii referitoare la abstractizare, polimorfism, incapsulare, referinte constante, constructori, destructori, supraincarcarea metodelor, liste de initializare
 repository Andrei: https://github.com/AndreiSerghie/CppTraining
