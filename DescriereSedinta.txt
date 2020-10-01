@@ -1,3 +1,9 @@
+02.09.2020
+Template, clase template, functii template, exemplu
+17.07.2020
+precedenta operatorilor, explicarea a evaluarea expersilor(lvalue, rvalue), tipuri de operatori
+10.07.2020
+prezentare status proiecte
 03.07.2020
 tipuri de casturi, modificatori de access
 26.06.2020

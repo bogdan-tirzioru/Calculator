@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+E:\CPP\Calculator\ConsoleApplication2\ConsoleApplication2.cpp(40,25): warning C4804: '>': unsafe use of type 'bool' in operation
+E:\CPP\Calculator\ConsoleApplication2\ConsoleApplication2.cpp(40,34): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\CPP\Calculator\ConsoleApplication2\ConsoleApplication2.cpp(51,20): warning C4227: anachronism used: qualifiers on reference are ignored
+E:\CPP\Calculator\ConsoleApplication2\ConsoleApplication2.cpp(52,26): warning C4227: anachronism used: qualifiers on reference are ignored
+E:\CPP\Calculator\ConsoleApplication2\ConsoleApplication2.cpp(47,17): warning C4101: 'p1': unreferenced local variable
+  ConsoleApplication2.vcxproj -> E:\CPP\Calculator\ConsoleApplication2\Debug\ConsoleApplication2.exe
