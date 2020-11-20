@@ -1,0 +1,2 @@
+E:\CPP\Calculator\ConsoleApplication7\Debug\ConsoleApplication7.exe
+E:\CPP\Calculator\ConsoleApplication7\Debug\ConsoleApplication7.pdb

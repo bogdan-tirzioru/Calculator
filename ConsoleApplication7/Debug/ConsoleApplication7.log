@@ -1,0 +1,23 @@
+﻿  ConsoleApplication7.cpp
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(26,1): error C2678: binary '>': no operator found which takes a left-hand operand of type 'const T' (or there is no acceptable conversion)
+          with
+          [
+              T=TMyObject
+          ]
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(10,10): message : could be 'bool TMyObject::operator >(const TMyObject &)'
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(26,1): message : while trying to match the argument list '(const T, const T)'
+          with
+          [
+              T=TMyObject
+          ]
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(26): message : while compiling class template member function 'bool maimare<TMyObject>::operator ()(const T &) const'
+          with
+          [
+              T=TMyObject
+          ]
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(37): message : see reference to function template instantiation 'bool maimare<TMyObject>::operator ()(const T &) const' being compiled
+          with
+          [
+              T=TMyObject
+          ]
+E:\CPP\Calculator\ConsoleApplication7\ConsoleApplication7.cpp(33): message : see reference to class template instantiation 'maimare<TMyObject>' being compiled
